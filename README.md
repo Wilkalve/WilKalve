@@ -7,7 +7,7 @@ I specialize in designing reproducible, mechanism‑based systems and delivering
 ## What I do
 - **Systems architecture:** QNX/RTOS, IPC, scheduling, synchronization; backend APIs, database modeling
 - **Quality & benchmarking:** Rigorous QA suites, performance baselines, reproducible migrations
-- **Technical communication:** Executive‑ready summaries, visuals, and speaker scripts for stakeholders
+
 
 ## Selected work
 - **Shopify app QA & integration** — stabilized environments, builds, and migrations; published test matrix & rollback plan  
