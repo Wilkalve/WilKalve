@@ -19,7 +19,7 @@ I build full-stack systems that go from embedded firmware to deployed cloud apps
  
 
 ## 🌐 Connect
-- LinkedIn: https://linkedin.com/in/
-- Email: 
+- Email: wilfridfkoussok@gmail.com
+  
 
 
