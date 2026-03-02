@@ -11,11 +11,11 @@ I build full-stack systems that go from embedded firmware to deployed cloud apps
 - Delivery Subscription Web App | ASP.NET Core + Azure — Designed EF Core data model, deployed to Azure App Services with Azure SQL; production-ready architectur
 
 ## 🛠 Technical Skills
-. Languages: Java, C++, C#, C, JavaScript, R, HTML/CSS
-. Frameworks: ASP.NET Core, React.js, Node.js, Entity Framework Core, Bootstrap
-. Data: MySQL, MariaDB, Azure SQL
-. Cloud & Tools: Azure App Services, Git, Linux/Unix, JUnit, Selenium
-. Concepts: RTOS, IPC, REST APIs, OOP, Data Structures, QA/Testing  
+- Languages: Java, C++, C#, C, JavaScript, R, HTML/CSS
+- Frameworks: ASP.NET Core, React.js, Node.js, Entity Framework Core, Bootstrap
+- Data: MySQL, MariaDB, Azure SQL
+- Cloud & Tools: Azure App Services, Git, Linux/Unix, JUnit, Selenium
+- Concepts: RTOS, IPC, REST APIs, OOP, Data Structures, QA/Testing  
  
 
 ## 🌐 Connect
